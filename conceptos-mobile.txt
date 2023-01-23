@@ -1,0 +1,4 @@
+HOMOLOGAR:
+-Que mi ap se vea igual tanto en andorid, ios o web.
+MANTENER LA EXPERIENCIA NATIVA DE CADA DISTPOSITIVO.
+-Mantener ciertas caracteristicas de navegacion o diseno de cada plataforma.
